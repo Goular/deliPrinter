@@ -1,0 +1,1212 @@
+SIZE 50 mm,30 mm
+DENSITY 15
+DIRECTION 1
+CLS
+TEXT 12,40,"TSS24.BF2",0,1,1," 线路宝"
+TEXT 0,80,"TSS24.BF2",0,1,1,"PCBBAO.COM"
+TEXT 280,40,"TSS24.BF2",0,1,1,"物联网平台"
+QRCODE 120,20,M,3,A,0,"https://pcbapi.pcbbao.com/mesdemo/index.php/v1/default/device-detail?product_key=bLl5jjIjQfI&device_name=z3L_9BxT_U7OecZavvd-"
+TEXT 20,180,"TSS24.BF2",0,1,1,"设备名称: 计数器"
+TEXT 20,210,"TSS24.BF2",0,1,1,"设备编号: z3L_9BxT_U7OecZavvd-"
+PRINT 1,1
+
+SIZE 50 mm,30 mm
+DENSITY 15
+DIRECTION 1
+CLS
+TEXT 12,40,"TSS24.BF2",0,1,1," 线路宝"
+TEXT 0,80,"TSS24.BF2",0,1,1,"PCBBAO.COM"
+TEXT 280,40,"TSS24.BF2",0,1,1,"物联网平台"
+QRCODE 120,20,M,3,A,0,"https://pcbapi.pcbbao.com/mesdemo/index.php/v1/default/device-detail?product_key=bLl5jjIjQfI&device_name=9dO3FJLY0pnngzaQtpoN"
+TEXT 20,180,"TSS24.BF2",0,1,1,"设备名称: 计数器100"
+TEXT 20,210,"TSS24.BF2",0,1,1,"设备编号: 9dO3FJLY0pnngzaQtpoN"
+PRINT 1,1
+
+SIZE 50 mm,30 mm
+DENSITY 15
+DIRECTION 1
+CLS
+TEXT 12,40,"TSS24.BF2",0,1,1," 线路宝"
+TEXT 0,80,"TSS24.BF2",0,1,1,"PCBBAO.COM"
+TEXT 280,40,"TSS24.BF2",0,1,1,"物联网平台"
+QRCODE 120,20,M,3,A,0,"https://pcbapi.pcbbao.com/mesdemo/index.php/v1/default/device-detail?product_key=bLl5jjIjQfI&device_name=6hwYn7KcR1nNjhOH6mlt"
+TEXT 20,180,"TSS24.BF2",0,1,1,"设备名称: 计数器1"
+TEXT 20,210,"TSS24.BF2",0,1,1,"设备编号: 6hwYn7KcR1nNjhOH6mlt"
+PRINT 1,1
+
+SIZE 50 mm,30 mm
+DENSITY 15
+DIRECTION 1
+CLS
+TEXT 12,40,"TSS24.BF2",0,1,1," 线路宝"
+TEXT 0,80,"TSS24.BF2",0,1,1,"PCBBAO.COM"
+TEXT 280,40,"TSS24.BF2",0,1,1,"物联网平台"
+QRCODE 120,20,M,3,A,0,"https://pcbapi.pcbbao.com/mesdemo/index.php/v1/default/device-detail?product_key=bLl5jjIjQfI&device_name=9uW_KBb4Zl3zyndnQTq4"
+TEXT 20,180,"TSS24.BF2",0,1,1,"设备名称: 计数器2"
+TEXT 20,210,"TSS24.BF2",0,1,1,"设备编号: 9uW_KBb4Zl3zyndnQTq4"
+PRINT 1,1
+
+SIZE 50 mm,30 mm
+DENSITY 15
+DIRECTION 1
+CLS
+TEXT 12,40,"TSS24.BF2",0,1,1," 线路宝"
+TEXT 0,80,"TSS24.BF2",0,1,1,"PCBBAO.COM"
+TEXT 280,40,"TSS24.BF2",0,1,1,"物联网平台"
+QRCODE 120,20,M,3,A,0,"https://pcbapi.pcbbao.com/mesdemo/index.php/v1/default/device-detail?product_key=bLl5jjIjQfI&device_name=ZjbFDry0C3cG4o8FygFf"
+TEXT 20,180,"TSS24.BF2",0,1,1,"设备名称: 计数器3"
+TEXT 20,210,"TSS24.BF2",0,1,1,"设备编号: ZjbFDry0C3cG4o8FygFf"
+PRINT 1,1
+
+SIZE 50 mm,30 mm
+DENSITY 15
+DIRECTION 1
+CLS
+TEXT 12,40,"TSS24.BF2",0,1,1," 线路宝"
+TEXT 0,80,"TSS24.BF2",0,1,1,"PCBBAO.COM"
+TEXT 280,40,"TSS24.BF2",0,1,1,"物联网平台"
+QRCODE 120,20,M,3,A,0,"https://pcbapi.pcbbao.com/mesdemo/index.php/v1/default/device-detail?product_key=bLl5jjIjQfI&device_name=8p-HJX8cmEMBSqoEYTID"
+TEXT 20,180,"TSS24.BF2",0,1,1,"设备名称: 计数器4"
+TEXT 20,210,"TSS24.BF2",0,1,1,"设备编号: 8p-HJX8cmEMBSqoEYTID"
+PRINT 1,1
+
+SIZE 50 mm,30 mm
+DENSITY 15
+DIRECTION 1
+CLS
+TEXT 12,40,"TSS24.BF2",0,1,1," 线路宝"
+TEXT 0,80,"TSS24.BF2",0,1,1,"PCBBAO.COM"
+TEXT 280,40,"TSS24.BF2",0,1,1,"物联网平台"
+QRCODE 120,20,M,3,A,0,"https://pcbapi.pcbbao.com/mesdemo/index.php/v1/default/device-detail?product_key=bLl5jjIjQfI&device_name=4hXmuPGZq00tglYLU9rv"
+TEXT 20,180,"TSS24.BF2",0,1,1,"设备名称: 计数器5"
+TEXT 20,210,"TSS24.BF2",0,1,1,"设备编号: 4hXmuPGZq00tglYLU9rv"
+PRINT 1,1
+
+SIZE 50 mm,30 mm
+DENSITY 15
+DIRECTION 1
+CLS
+TEXT 12,40,"TSS24.BF2",0,1,1," 线路宝"
+TEXT 0,80,"TSS24.BF2",0,1,1,"PCBBAO.COM"
+TEXT 280,40,"TSS24.BF2",0,1,1,"物联网平台"
+QRCODE 120,20,M,3,A,0,"https://pcbapi.pcbbao.com/mesdemo/index.php/v1/default/device-detail?product_key=bLl5jjIjQfI&device_name=j9CBGuxbQEzq6ACJ_HmY"
+TEXT 20,180,"TSS24.BF2",0,1,1,"设备名称: 计数器6"
+TEXT 20,210,"TSS24.BF2",0,1,1,"设备编号: j9CBGuxbQEzq6ACJ_HmY"
+PRINT 1,1
+
+SIZE 50 mm,30 mm
+DENSITY 15
+DIRECTION 1
+CLS
+TEXT 12,40,"TSS24.BF2",0,1,1," 线路宝"
+TEXT 0,80,"TSS24.BF2",0,1,1,"PCBBAO.COM"
+TEXT 280,40,"TSS24.BF2",0,1,1,"物联网平台"
+QRCODE 120,20,M,3,A,0,"https://pcbapi.pcbbao.com/mesdemo/index.php/v1/default/device-detail?product_key=bLl5jjIjQfI&device_name=-sBXoLerGWPL58eh1yEn"
+TEXT 20,180,"TSS24.BF2",0,1,1,"设备名称: 计数器7"
+TEXT 20,210,"TSS24.BF2",0,1,1,"设备编号: -sBXoLerGWPL58eh1yEn"
+PRINT 1,1
+
+SIZE 50 mm,30 mm
+DENSITY 15
+DIRECTION 1
+CLS
+TEXT 12,40,"TSS24.BF2",0,1,1," 线路宝"
+TEXT 0,80,"TSS24.BF2",0,1,1,"PCBBAO.COM"
+TEXT 280,40,"TSS24.BF2",0,1,1,"物联网平台"
+QRCODE 120,20,M,3,A,0,"https://pcbapi.pcbbao.com/mesdemo/index.php/v1/default/device-detail?product_key=bLl5jjIjQfI&device_name=MY1YRdhAcaX017GFXVyb"
+TEXT 20,180,"TSS24.BF2",0,1,1,"设备名称: 计数器8"
+TEXT 20,210,"TSS24.BF2",0,1,1,"设备编号: MY1YRdhAcaX017GFXVyb"
+PRINT 1,1
+
+SIZE 50 mm,30 mm
+DENSITY 15
+DIRECTION 1
+CLS
+TEXT 12,40,"TSS24.BF2",0,1,1," 线路宝"
+TEXT 0,80,"TSS24.BF2",0,1,1,"PCBBAO.COM"
+TEXT 280,40,"TSS24.BF2",0,1,1,"物联网平台"
+QRCODE 120,20,M,3,A,0,"https://pcbapi.pcbbao.com/mesdemo/index.php/v1/default/device-detail?product_key=bLl5jjIjQfI&device_name=w-IOm5Sf7z7abJ2hWV2z"
+TEXT 20,180,"TSS24.BF2",0,1,1,"设备名称: 计数器9"
+TEXT 20,210,"TSS24.BF2",0,1,1,"设备编号: w-IOm5Sf7z7abJ2hWV2z"
+PRINT 1,1
+
+SIZE 50 mm,30 mm
+DENSITY 15
+DIRECTION 1
+CLS
+TEXT 12,40,"TSS24.BF2",0,1,1," 线路宝"
+TEXT 0,80,"TSS24.BF2",0,1,1,"PCBBAO.COM"
+TEXT 280,40,"TSS24.BF2",0,1,1,"物联网平台"
+QRCODE 120,20,M,3,A,0,"https://pcbapi.pcbbao.com/mesdemo/index.php/v1/default/device-detail?product_key=bLl5jjIjQfI&device_name=bkOVkvb_X5nu9rKklRld"
+TEXT 20,180,"TSS24.BF2",0,1,1,"设备名称: 计数器10"
+TEXT 20,210,"TSS24.BF2",0,1,1,"设备编号: bkOVkvb_X5nu9rKklRld"
+PRINT 1,1
+
+SIZE 50 mm,30 mm
+DENSITY 15
+DIRECTION 1
+CLS
+TEXT 12,40,"TSS24.BF2",0,1,1," 线路宝"
+TEXT 0,80,"TSS24.BF2",0,1,1,"PCBBAO.COM"
+TEXT 280,40,"TSS24.BF2",0,1,1,"物联网平台"
+QRCODE 120,20,M,3,A,0,"https://pcbapi.pcbbao.com/mesdemo/index.php/v1/default/device-detail?product_key=bLl5jjIjQfI&device_name=yGSz-JGI5NbHjxIkeZwG"
+TEXT 20,180,"TSS24.BF2",0,1,1,"设备名称: 计数器11"
+TEXT 20,210,"TSS24.BF2",0,1,1,"设备编号: yGSz-JGI5NbHjxIkeZwG"
+PRINT 1,1
+
+SIZE 50 mm,30 mm
+DENSITY 15
+DIRECTION 1
+CLS
+TEXT 12,40,"TSS24.BF2",0,1,1," 线路宝"
+TEXT 0,80,"TSS24.BF2",0,1,1,"PCBBAO.COM"
+TEXT 280,40,"TSS24.BF2",0,1,1,"物联网平台"
+QRCODE 120,20,M,3,A,0,"https://pcbapi.pcbbao.com/mesdemo/index.php/v1/default/device-detail?product_key=bLl5jjIjQfI&device_name=l64Pnyb-o71uir_mKrFf"
+TEXT 20,180,"TSS24.BF2",0,1,1,"设备名称: 计数器12"
+TEXT 20,210,"TSS24.BF2",0,1,1,"设备编号: l64Pnyb-o71uir_mKrFf"
+PRINT 1,1
+
+SIZE 50 mm,30 mm
+DENSITY 15
+DIRECTION 1
+CLS
+TEXT 12,40,"TSS24.BF2",0,1,1," 线路宝"
+TEXT 0,80,"TSS24.BF2",0,1,1,"PCBBAO.COM"
+TEXT 280,40,"TSS24.BF2",0,1,1,"物联网平台"
+QRCODE 120,20,M,3,A,0,"https://pcbapi.pcbbao.com/mesdemo/index.php/v1/default/device-detail?product_key=bLl5jjIjQfI&device_name=d2vdyBwez-6KecTy7gWl"
+TEXT 20,180,"TSS24.BF2",0,1,1,"设备名称: 计数器13"
+TEXT 20,210,"TSS24.BF2",0,1,1,"设备编号: d2vdyBwez-6KecTy7gWl"
+PRINT 1,1
+
+SIZE 50 mm,30 mm
+DENSITY 15
+DIRECTION 1
+CLS
+TEXT 12,40,"TSS24.BF2",0,1,1," 线路宝"
+TEXT 0,80,"TSS24.BF2",0,1,1,"PCBBAO.COM"
+TEXT 280,40,"TSS24.BF2",0,1,1,"物联网平台"
+QRCODE 120,20,M,3,A,0,"https://pcbapi.pcbbao.com/mesdemo/index.php/v1/default/device-detail?product_key=bLl5jjIjQfI&device_name=N2Shsd8AkD4JRcFOb_FL"
+TEXT 20,180,"TSS24.BF2",0,1,1,"设备名称: 计数器14"
+TEXT 20,210,"TSS24.BF2",0,1,1,"设备编号: N2Shsd8AkD4JRcFOb_FL"
+PRINT 1,1
+
+SIZE 50 mm,30 mm
+DENSITY 15
+DIRECTION 1
+CLS
+TEXT 12,40,"TSS24.BF2",0,1,1," 线路宝"
+TEXT 0,80,"TSS24.BF2",0,1,1,"PCBBAO.COM"
+TEXT 280,40,"TSS24.BF2",0,1,1,"物联网平台"
+QRCODE 120,20,M,3,A,0,"https://pcbapi.pcbbao.com/mesdemo/index.php/v1/default/device-detail?product_key=bLl5jjIjQfI&device_name=SVn5-vLCiB0kIDYYeJew"
+TEXT 20,180,"TSS24.BF2",0,1,1,"设备名称: 计数器15"
+TEXT 20,210,"TSS24.BF2",0,1,1,"设备编号: SVn5-vLCiB0kIDYYeJew"
+PRINT 1,1
+
+SIZE 50 mm,30 mm
+DENSITY 15
+DIRECTION 1
+CLS
+TEXT 12,40,"TSS24.BF2",0,1,1," 线路宝"
+TEXT 0,80,"TSS24.BF2",0,1,1,"PCBBAO.COM"
+TEXT 280,40,"TSS24.BF2",0,1,1,"物联网平台"
+QRCODE 120,20,M,3,A,0,"https://pcbapi.pcbbao.com/mesdemo/index.php/v1/default/device-detail?product_key=bLl5jjIjQfI&device_name=yd6OPdijmC6JtOBFGdll"
+TEXT 20,180,"TSS24.BF2",0,1,1,"设备名称: 计数器16"
+TEXT 20,210,"TSS24.BF2",0,1,1,"设备编号: yd6OPdijmC6JtOBFGdll"
+PRINT 1,1
+
+SIZE 50 mm,30 mm
+DENSITY 15
+DIRECTION 1
+CLS
+TEXT 12,40,"TSS24.BF2",0,1,1," 线路宝"
+TEXT 0,80,"TSS24.BF2",0,1,1,"PCBBAO.COM"
+TEXT 280,40,"TSS24.BF2",0,1,1,"物联网平台"
+QRCODE 120,20,M,3,A,0,"https://pcbapi.pcbbao.com/mesdemo/index.php/v1/default/device-detail?product_key=bLl5jjIjQfI&device_name=ISB3JXCwd6kX-wbFdSMO"
+TEXT 20,180,"TSS24.BF2",0,1,1,"设备名称: 计数器17"
+TEXT 20,210,"TSS24.BF2",0,1,1,"设备编号: ISB3JXCwd6kX-wbFdSMO"
+PRINT 1,1
+
+SIZE 50 mm,30 mm
+DENSITY 15
+DIRECTION 1
+CLS
+TEXT 12,40,"TSS24.BF2",0,1,1," 线路宝"
+TEXT 0,80,"TSS24.BF2",0,1,1,"PCBBAO.COM"
+TEXT 280,40,"TSS24.BF2",0,1,1,"物联网平台"
+QRCODE 120,20,M,3,A,0,"https://pcbapi.pcbbao.com/mesdemo/index.php/v1/default/device-detail?product_key=bLl5jjIjQfI&device_name=_UPAhgjagUJWwGw9Gq2Y"
+TEXT 20,180,"TSS24.BF2",0,1,1,"设备名称: 计数器18"
+TEXT 20,210,"TSS24.BF2",0,1,1,"设备编号: _UPAhgjagUJWwGw9Gq2Y"
+PRINT 1,1
+
+SIZE 50 mm,30 mm
+DENSITY 15
+DIRECTION 1
+CLS
+TEXT 12,40,"TSS24.BF2",0,1,1," 线路宝"
+TEXT 0,80,"TSS24.BF2",0,1,1,"PCBBAO.COM"
+TEXT 280,40,"TSS24.BF2",0,1,1,"物联网平台"
+QRCODE 120,20,M,3,A,0,"https://pcbapi.pcbbao.com/mesdemo/index.php/v1/default/device-detail?product_key=bLl5jjIjQfI&device_name=WU408li3x4TxcuVr7PTy"
+TEXT 20,180,"TSS24.BF2",0,1,1,"设备名称: 计数器19"
+TEXT 20,210,"TSS24.BF2",0,1,1,"设备编号: WU408li3x4TxcuVr7PTy"
+PRINT 1,1
+
+SIZE 50 mm,30 mm
+DENSITY 15
+DIRECTION 1
+CLS
+TEXT 12,40,"TSS24.BF2",0,1,1," 线路宝"
+TEXT 0,80,"TSS24.BF2",0,1,1,"PCBBAO.COM"
+TEXT 280,40,"TSS24.BF2",0,1,1,"物联网平台"
+QRCODE 120,20,M,3,A,0,"https://pcbapi.pcbbao.com/mesdemo/index.php/v1/default/device-detail?product_key=bLl5jjIjQfI&device_name=U6XF4P525sqFffy__7_c"
+TEXT 20,180,"TSS24.BF2",0,1,1,"设备名称: 计数器20"
+TEXT 20,210,"TSS24.BF2",0,1,1,"设备编号: U6XF4P525sqFffy__7_c"
+PRINT 1,1
+
+SIZE 50 mm,30 mm
+DENSITY 15
+DIRECTION 1
+CLS
+TEXT 12,40,"TSS24.BF2",0,1,1," 线路宝"
+TEXT 0,80,"TSS24.BF2",0,1,1,"PCBBAO.COM"
+TEXT 280,40,"TSS24.BF2",0,1,1,"物联网平台"
+QRCODE 120,20,M,3,A,0,"https://pcbapi.pcbbao.com/mesdemo/index.php/v1/default/device-detail?product_key=bLl5jjIjQfI&device_name=2C_bDgcUwhvEiQ5vkyGM"
+TEXT 20,180,"TSS24.BF2",0,1,1,"设备名称: 计数器21"
+TEXT 20,210,"TSS24.BF2",0,1,1,"设备编号: 2C_bDgcUwhvEiQ5vkyGM"
+PRINT 1,1
+
+SIZE 50 mm,30 mm
+DENSITY 15
+DIRECTION 1
+CLS
+TEXT 12,40,"TSS24.BF2",0,1,1," 线路宝"
+TEXT 0,80,"TSS24.BF2",0,1,1,"PCBBAO.COM"
+TEXT 280,40,"TSS24.BF2",0,1,1,"物联网平台"
+QRCODE 120,20,M,3,A,0,"https://pcbapi.pcbbao.com/mesdemo/index.php/v1/default/device-detail?product_key=bLl5jjIjQfI&device_name=6BJrJlKJMR6xaLwEl6tZ"
+TEXT 20,180,"TSS24.BF2",0,1,1,"设备名称: 计数器22"
+TEXT 20,210,"TSS24.BF2",0,1,1,"设备编号: 6BJrJlKJMR6xaLwEl6tZ"
+PRINT 1,1
+
+SIZE 50 mm,30 mm
+DENSITY 15
+DIRECTION 1
+CLS
+TEXT 12,40,"TSS24.BF2",0,1,1," 线路宝"
+TEXT 0,80,"TSS24.BF2",0,1,1,"PCBBAO.COM"
+TEXT 280,40,"TSS24.BF2",0,1,1,"物联网平台"
+QRCODE 120,20,M,3,A,0,"https://pcbapi.pcbbao.com/mesdemo/index.php/v1/default/device-detail?product_key=bLl5jjIjQfI&device_name=4LmT8QR6Yu_95Eqa7iAy"
+TEXT 20,180,"TSS24.BF2",0,1,1,"设备名称: 计数器23"
+TEXT 20,210,"TSS24.BF2",0,1,1,"设备编号: 4LmT8QR6Yu_95Eqa7iAy"
+PRINT 1,1
+
+SIZE 50 mm,30 mm
+DENSITY 15
+DIRECTION 1
+CLS
+TEXT 12,40,"TSS24.BF2",0,1,1," 线路宝"
+TEXT 0,80,"TSS24.BF2",0,1,1,"PCBBAO.COM"
+TEXT 280,40,"TSS24.BF2",0,1,1,"物联网平台"
+QRCODE 120,20,M,3,A,0,"https://pcbapi.pcbbao.com/mesdemo/index.php/v1/default/device-detail?product_key=bLl5jjIjQfI&device_name=HQ0SMvFgefgR-wUqwRJM"
+TEXT 20,180,"TSS24.BF2",0,1,1,"设备名称: 计数器24"
+TEXT 20,210,"TSS24.BF2",0,1,1,"设备编号: HQ0SMvFgefgR-wUqwRJM"
+PRINT 1,1
+
+SIZE 50 mm,30 mm
+DENSITY 15
+DIRECTION 1
+CLS
+TEXT 12,40,"TSS24.BF2",0,1,1," 线路宝"
+TEXT 0,80,"TSS24.BF2",0,1,1,"PCBBAO.COM"
+TEXT 280,40,"TSS24.BF2",0,1,1,"物联网平台"
+QRCODE 120,20,M,3,A,0,"https://pcbapi.pcbbao.com/mesdemo/index.php/v1/default/device-detail?product_key=bLl5jjIjQfI&device_name=XOKvhdiujggR-bXU6Vso"
+TEXT 20,180,"TSS24.BF2",0,1,1,"设备名称: 计数器25"
+TEXT 20,210,"TSS24.BF2",0,1,1,"设备编号: XOKvhdiujggR-bXU6Vso"
+PRINT 1,1
+
+SIZE 50 mm,30 mm
+DENSITY 15
+DIRECTION 1
+CLS
+TEXT 12,40,"TSS24.BF2",0,1,1," 线路宝"
+TEXT 0,80,"TSS24.BF2",0,1,1,"PCBBAO.COM"
+TEXT 280,40,"TSS24.BF2",0,1,1,"物联网平台"
+QRCODE 120,20,M,3,A,0,"https://pcbapi.pcbbao.com/mesdemo/index.php/v1/default/device-detail?product_key=bLl5jjIjQfI&device_name=QDzv5z-h8cSptQcZk4Rj"
+TEXT 20,180,"TSS24.BF2",0,1,1,"设备名称: 计数器26"
+TEXT 20,210,"TSS24.BF2",0,1,1,"设备编号: QDzv5z-h8cSptQcZk4Rj"
+PRINT 1,1
+
+SIZE 50 mm,30 mm
+DENSITY 15
+DIRECTION 1
+CLS
+TEXT 12,40,"TSS24.BF2",0,1,1," 线路宝"
+TEXT 0,80,"TSS24.BF2",0,1,1,"PCBBAO.COM"
+TEXT 280,40,"TSS24.BF2",0,1,1,"物联网平台"
+QRCODE 120,20,M,3,A,0,"https://pcbapi.pcbbao.com/mesdemo/index.php/v1/default/device-detail?product_key=bLl5jjIjQfI&device_name=Z0p76kPaLzv9hgcY3I1s"
+TEXT 20,180,"TSS24.BF2",0,1,1,"设备名称: 计数器27"
+TEXT 20,210,"TSS24.BF2",0,1,1,"设备编号: Z0p76kPaLzv9hgcY3I1s"
+PRINT 1,1
+
+SIZE 50 mm,30 mm
+DENSITY 15
+DIRECTION 1
+CLS
+TEXT 12,40,"TSS24.BF2",0,1,1," 线路宝"
+TEXT 0,80,"TSS24.BF2",0,1,1,"PCBBAO.COM"
+TEXT 280,40,"TSS24.BF2",0,1,1,"物联网平台"
+QRCODE 120,20,M,3,A,0,"https://pcbapi.pcbbao.com/mesdemo/index.php/v1/default/device-detail?product_key=bLl5jjIjQfI&device_name=r2BNsZHy5fQhogFngeUd"
+TEXT 20,180,"TSS24.BF2",0,1,1,"设备名称: 计数器28"
+TEXT 20,210,"TSS24.BF2",0,1,1,"设备编号: r2BNsZHy5fQhogFngeUd"
+PRINT 1,1
+
+SIZE 50 mm,30 mm
+DENSITY 15
+DIRECTION 1
+CLS
+TEXT 12,40,"TSS24.BF2",0,1,1," 线路宝"
+TEXT 0,80,"TSS24.BF2",0,1,1,"PCBBAO.COM"
+TEXT 280,40,"TSS24.BF2",0,1,1,"物联网平台"
+QRCODE 120,20,M,3,A,0,"https://pcbapi.pcbbao.com/mesdemo/index.php/v1/default/device-detail?product_key=bLl5jjIjQfI&device_name=VhRgZ2Ul_3vqJtNsR6zJ"
+TEXT 20,180,"TSS24.BF2",0,1,1,"设备名称: 计数器29"
+TEXT 20,210,"TSS24.BF2",0,1,1,"设备编号: VhRgZ2Ul_3vqJtNsR6zJ"
+PRINT 1,1
+
+SIZE 50 mm,30 mm
+DENSITY 15
+DIRECTION 1
+CLS
+TEXT 12,40,"TSS24.BF2",0,1,1," 线路宝"
+TEXT 0,80,"TSS24.BF2",0,1,1,"PCBBAO.COM"
+TEXT 280,40,"TSS24.BF2",0,1,1,"物联网平台"
+QRCODE 120,20,M,3,A,0,"https://pcbapi.pcbbao.com/mesdemo/index.php/v1/default/device-detail?product_key=bLl5jjIjQfI&device_name=gSFiTJu8nwiIk-DjOqBK"
+TEXT 20,180,"TSS24.BF2",0,1,1,"设备名称: 计数器30"
+TEXT 20,210,"TSS24.BF2",0,1,1,"设备编号: gSFiTJu8nwiIk-DjOqBK"
+PRINT 1,1
+
+SIZE 50 mm,30 mm
+DENSITY 15
+DIRECTION 1
+CLS
+TEXT 12,40,"TSS24.BF2",0,1,1," 线路宝"
+TEXT 0,80,"TSS24.BF2",0,1,1,"PCBBAO.COM"
+TEXT 280,40,"TSS24.BF2",0,1,1,"物联网平台"
+QRCODE 120,20,M,3,A,0,"https://pcbapi.pcbbao.com/mesdemo/index.php/v1/default/device-detail?product_key=bLl5jjIjQfI&device_name=nN5ZX47eRZNPgmkgx8BW"
+TEXT 20,180,"TSS24.BF2",0,1,1,"设备名称: 计数器31"
+TEXT 20,210,"TSS24.BF2",0,1,1,"设备编号: nN5ZX47eRZNPgmkgx8BW"
+PRINT 1,1
+
+SIZE 50 mm,30 mm
+DENSITY 15
+DIRECTION 1
+CLS
+TEXT 12,40,"TSS24.BF2",0,1,1," 线路宝"
+TEXT 0,80,"TSS24.BF2",0,1,1,"PCBBAO.COM"
+TEXT 280,40,"TSS24.BF2",0,1,1,"物联网平台"
+QRCODE 120,20,M,3,A,0,"https://pcbapi.pcbbao.com/mesdemo/index.php/v1/default/device-detail?product_key=bLl5jjIjQfI&device_name=3NbYLdN4JCuTKj8t925L"
+TEXT 20,180,"TSS24.BF2",0,1,1,"设备名称: 计数器32"
+TEXT 20,210,"TSS24.BF2",0,1,1,"设备编号: 3NbYLdN4JCuTKj8t925L"
+PRINT 1,1
+
+SIZE 50 mm,30 mm
+DENSITY 15
+DIRECTION 1
+CLS
+TEXT 12,40,"TSS24.BF2",0,1,1," 线路宝"
+TEXT 0,80,"TSS24.BF2",0,1,1,"PCBBAO.COM"
+TEXT 280,40,"TSS24.BF2",0,1,1,"物联网平台"
+QRCODE 120,20,M,3,A,0,"https://pcbapi.pcbbao.com/mesdemo/index.php/v1/default/device-detail?product_key=bLl5jjIjQfI&device_name=mzqUnTegx7Gx1edQ6_ZJ"
+TEXT 20,180,"TSS24.BF2",0,1,1,"设备名称: 计数器33"
+TEXT 20,210,"TSS24.BF2",0,1,1,"设备编号: mzqUnTegx7Gx1edQ6_ZJ"
+PRINT 1,1
+
+SIZE 50 mm,30 mm
+DENSITY 15
+DIRECTION 1
+CLS
+TEXT 12,40,"TSS24.BF2",0,1,1," 线路宝"
+TEXT 0,80,"TSS24.BF2",0,1,1,"PCBBAO.COM"
+TEXT 280,40,"TSS24.BF2",0,1,1,"物联网平台"
+QRCODE 120,20,M,3,A,0,"https://pcbapi.pcbbao.com/mesdemo/index.php/v1/default/device-detail?product_key=bLl5jjIjQfI&device_name=DGU9fnQyzyR0nDufBAi7"
+TEXT 20,180,"TSS24.BF2",0,1,1,"设备名称: 计数器34"
+TEXT 20,210,"TSS24.BF2",0,1,1,"设备编号: DGU9fnQyzyR0nDufBAi7"
+PRINT 1,1
+
+SIZE 50 mm,30 mm
+DENSITY 15
+DIRECTION 1
+CLS
+TEXT 12,40,"TSS24.BF2",0,1,1," 线路宝"
+TEXT 0,80,"TSS24.BF2",0,1,1,"PCBBAO.COM"
+TEXT 280,40,"TSS24.BF2",0,1,1,"物联网平台"
+QRCODE 120,20,M,3,A,0,"https://pcbapi.pcbbao.com/mesdemo/index.php/v1/default/device-detail?product_key=bLl5jjIjQfI&device_name=YF3yEU3mhGklInAAEG1M"
+TEXT 20,180,"TSS24.BF2",0,1,1,"设备名称: 计数器35"
+TEXT 20,210,"TSS24.BF2",0,1,1,"设备编号: YF3yEU3mhGklInAAEG1M"
+PRINT 1,1
+
+SIZE 50 mm,30 mm
+DENSITY 15
+DIRECTION 1
+CLS
+TEXT 12,40,"TSS24.BF2",0,1,1," 线路宝"
+TEXT 0,80,"TSS24.BF2",0,1,1,"PCBBAO.COM"
+TEXT 280,40,"TSS24.BF2",0,1,1,"物联网平台"
+QRCODE 120,20,M,3,A,0,"https://pcbapi.pcbbao.com/mesdemo/index.php/v1/default/device-detail?product_key=bLl5jjIjQfI&device_name=eQfkSJ4SKNz3D4iQZWAj"
+TEXT 20,180,"TSS24.BF2",0,1,1,"设备名称: 计数器36"
+TEXT 20,210,"TSS24.BF2",0,1,1,"设备编号: eQfkSJ4SKNz3D4iQZWAj"
+PRINT 1,1
+
+SIZE 50 mm,30 mm
+DENSITY 15
+DIRECTION 1
+CLS
+TEXT 12,40,"TSS24.BF2",0,1,1," 线路宝"
+TEXT 0,80,"TSS24.BF2",0,1,1,"PCBBAO.COM"
+TEXT 280,40,"TSS24.BF2",0,1,1,"物联网平台"
+QRCODE 120,20,M,3,A,0,"https://pcbapi.pcbbao.com/mesdemo/index.php/v1/default/device-detail?product_key=bLl5jjIjQfI&device_name=LvzwkZdB7e8mgWafUpJL"
+TEXT 20,180,"TSS24.BF2",0,1,1,"设备名称: 计数器37"
+TEXT 20,210,"TSS24.BF2",0,1,1,"设备编号: LvzwkZdB7e8mgWafUpJL"
+PRINT 1,1
+
+SIZE 50 mm,30 mm
+DENSITY 15
+DIRECTION 1
+CLS
+TEXT 12,40,"TSS24.BF2",0,1,1," 线路宝"
+TEXT 0,80,"TSS24.BF2",0,1,1,"PCBBAO.COM"
+TEXT 280,40,"TSS24.BF2",0,1,1,"物联网平台"
+QRCODE 120,20,M,3,A,0,"https://pcbapi.pcbbao.com/mesdemo/index.php/v1/default/device-detail?product_key=bLl5jjIjQfI&device_name=fqUcZKrHMlyQz1MWRduM"
+TEXT 20,180,"TSS24.BF2",0,1,1,"设备名称: 计数器38"
+TEXT 20,210,"TSS24.BF2",0,1,1,"设备编号: fqUcZKrHMlyQz1MWRduM"
+PRINT 1,1
+
+SIZE 50 mm,30 mm
+DENSITY 15
+DIRECTION 1
+CLS
+TEXT 12,40,"TSS24.BF2",0,1,1," 线路宝"
+TEXT 0,80,"TSS24.BF2",0,1,1,"PCBBAO.COM"
+TEXT 280,40,"TSS24.BF2",0,1,1,"物联网平台"
+QRCODE 120,20,M,3,A,0,"https://pcbapi.pcbbao.com/mesdemo/index.php/v1/default/device-detail?product_key=bLl5jjIjQfI&device_name=Gs66vQiv3QcvyXGxdu4p"
+TEXT 20,180,"TSS24.BF2",0,1,1,"设备名称: 计数器39"
+TEXT 20,210,"TSS24.BF2",0,1,1,"设备编号: Gs66vQiv3QcvyXGxdu4p"
+PRINT 1,1
+
+SIZE 50 mm,30 mm
+DENSITY 15
+DIRECTION 1
+CLS
+TEXT 12,40,"TSS24.BF2",0,1,1," 线路宝"
+TEXT 0,80,"TSS24.BF2",0,1,1,"PCBBAO.COM"
+TEXT 280,40,"TSS24.BF2",0,1,1,"物联网平台"
+QRCODE 120,20,M,3,A,0,"https://pcbapi.pcbbao.com/mesdemo/index.php/v1/default/device-detail?product_key=bLl5jjIjQfI&device_name=xfP5ZDXqZRIc4epU1IV6"
+TEXT 20,180,"TSS24.BF2",0,1,1,"设备名称: 计数器40"
+TEXT 20,210,"TSS24.BF2",0,1,1,"设备编号: xfP5ZDXqZRIc4epU1IV6"
+PRINT 1,1
+
+SIZE 50 mm,30 mm
+DENSITY 15
+DIRECTION 1
+CLS
+TEXT 12,40,"TSS24.BF2",0,1,1," 线路宝"
+TEXT 0,80,"TSS24.BF2",0,1,1,"PCBBAO.COM"
+TEXT 280,40,"TSS24.BF2",0,1,1,"物联网平台"
+QRCODE 120,20,M,3,A,0,"https://pcbapi.pcbbao.com/mesdemo/index.php/v1/default/device-detail?product_key=bLl5jjIjQfI&device_name=4aR7Nh0T0UMJmqBBIoob"
+TEXT 20,180,"TSS24.BF2",0,1,1,"设备名称: 计数器41"
+TEXT 20,210,"TSS24.BF2",0,1,1,"设备编号: 4aR7Nh0T0UMJmqBBIoob"
+PRINT 1,1
+
+SIZE 50 mm,30 mm
+DENSITY 15
+DIRECTION 1
+CLS
+TEXT 12,40,"TSS24.BF2",0,1,1," 线路宝"
+TEXT 0,80,"TSS24.BF2",0,1,1,"PCBBAO.COM"
+TEXT 280,40,"TSS24.BF2",0,1,1,"物联网平台"
+QRCODE 120,20,M,3,A,0,"https://pcbapi.pcbbao.com/mesdemo/index.php/v1/default/device-detail?product_key=bLl5jjIjQfI&device_name=hjLOr5GoBBGBRmFHlK8u"
+TEXT 20,180,"TSS24.BF2",0,1,1,"设备名称: 计数器42"
+TEXT 20,210,"TSS24.BF2",0,1,1,"设备编号: hjLOr5GoBBGBRmFHlK8u"
+PRINT 1,1
+
+SIZE 50 mm,30 mm
+DENSITY 15
+DIRECTION 1
+CLS
+TEXT 12,40,"TSS24.BF2",0,1,1," 线路宝"
+TEXT 0,80,"TSS24.BF2",0,1,1,"PCBBAO.COM"
+TEXT 280,40,"TSS24.BF2",0,1,1,"物联网平台"
+QRCODE 120,20,M,3,A,0,"https://pcbapi.pcbbao.com/mesdemo/index.php/v1/default/device-detail?product_key=bLl5jjIjQfI&device_name=G9jZxHcvEEBkcibi2Je7"
+TEXT 20,180,"TSS24.BF2",0,1,1,"设备名称: 计数器43"
+TEXT 20,210,"TSS24.BF2",0,1,1,"设备编号: G9jZxHcvEEBkcibi2Je7"
+PRINT 1,1
+
+SIZE 50 mm,30 mm
+DENSITY 15
+DIRECTION 1
+CLS
+TEXT 12,40,"TSS24.BF2",0,1,1," 线路宝"
+TEXT 0,80,"TSS24.BF2",0,1,1,"PCBBAO.COM"
+TEXT 280,40,"TSS24.BF2",0,1,1,"物联网平台"
+QRCODE 120,20,M,3,A,0,"https://pcbapi.pcbbao.com/mesdemo/index.php/v1/default/device-detail?product_key=bLl5jjIjQfI&device_name=W03maBDgz0XVwSHisxrD"
+TEXT 20,180,"TSS24.BF2",0,1,1,"设备名称: 计数器44"
+TEXT 20,210,"TSS24.BF2",0,1,1,"设备编号: W03maBDgz0XVwSHisxrD"
+PRINT 1,1
+
+SIZE 50 mm,30 mm
+DENSITY 15
+DIRECTION 1
+CLS
+TEXT 12,40,"TSS24.BF2",0,1,1," 线路宝"
+TEXT 0,80,"TSS24.BF2",0,1,1,"PCBBAO.COM"
+TEXT 280,40,"TSS24.BF2",0,1,1,"物联网平台"
+QRCODE 120,20,M,3,A,0,"https://pcbapi.pcbbao.com/mesdemo/index.php/v1/default/device-detail?product_key=bLl5jjIjQfI&device_name=g8CR6NSAkVAGK8c26Ui7"
+TEXT 20,180,"TSS24.BF2",0,1,1,"设备名称: 计数器45"
+TEXT 20,210,"TSS24.BF2",0,1,1,"设备编号: g8CR6NSAkVAGK8c26Ui7"
+PRINT 1,1
+
+SIZE 50 mm,30 mm
+DENSITY 15
+DIRECTION 1
+CLS
+TEXT 12,40,"TSS24.BF2",0,1,1," 线路宝"
+TEXT 0,80,"TSS24.BF2",0,1,1,"PCBBAO.COM"
+TEXT 280,40,"TSS24.BF2",0,1,1,"物联网平台"
+QRCODE 120,20,M,3,A,0,"https://pcbapi.pcbbao.com/mesdemo/index.php/v1/default/device-detail?product_key=bLl5jjIjQfI&device_name=xbwFaRpJ1cmNrS0DRCAQ"
+TEXT 20,180,"TSS24.BF2",0,1,1,"设备名称: 计数器46"
+TEXT 20,210,"TSS24.BF2",0,1,1,"设备编号: xbwFaRpJ1cmNrS0DRCAQ"
+PRINT 1,1
+
+SIZE 50 mm,30 mm
+DENSITY 15
+DIRECTION 1
+CLS
+TEXT 12,40,"TSS24.BF2",0,1,1," 线路宝"
+TEXT 0,80,"TSS24.BF2",0,1,1,"PCBBAO.COM"
+TEXT 280,40,"TSS24.BF2",0,1,1,"物联网平台"
+QRCODE 120,20,M,3,A,0,"https://pcbapi.pcbbao.com/mesdemo/index.php/v1/default/device-detail?product_key=bLl5jjIjQfI&device_name=gAykKcB-BWsRS8jRmxiw"
+TEXT 20,180,"TSS24.BF2",0,1,1,"设备名称: 计数器47"
+TEXT 20,210,"TSS24.BF2",0,1,1,"设备编号: gAykKcB-BWsRS8jRmxiw"
+PRINT 1,1
+
+SIZE 50 mm,30 mm
+DENSITY 15
+DIRECTION 1
+CLS
+TEXT 12,40,"TSS24.BF2",0,1,1," 线路宝"
+TEXT 0,80,"TSS24.BF2",0,1,1,"PCBBAO.COM"
+TEXT 280,40,"TSS24.BF2",0,1,1,"物联网平台"
+QRCODE 120,20,M,3,A,0,"https://pcbapi.pcbbao.com/mesdemo/index.php/v1/default/device-detail?product_key=bLl5jjIjQfI&device_name=EdvL2RGA95Isll2Ej2HD"
+TEXT 20,180,"TSS24.BF2",0,1,1,"设备名称: 计数器48"
+TEXT 20,210,"TSS24.BF2",0,1,1,"设备编号: EdvL2RGA95Isll2Ej2HD"
+PRINT 1,1
+
+SIZE 50 mm,30 mm
+DENSITY 15
+DIRECTION 1
+CLS
+TEXT 12,40,"TSS24.BF2",0,1,1," 线路宝"
+TEXT 0,80,"TSS24.BF2",0,1,1,"PCBBAO.COM"
+TEXT 280,40,"TSS24.BF2",0,1,1,"物联网平台"
+QRCODE 120,20,M,3,A,0,"https://pcbapi.pcbbao.com/mesdemo/index.php/v1/default/device-detail?product_key=bLl5jjIjQfI&device_name=Gd0iKwPDW4OExJY9eGDx"
+TEXT 20,180,"TSS24.BF2",0,1,1,"设备名称: 计数器49"
+TEXT 20,210,"TSS24.BF2",0,1,1,"设备编号: Gd0iKwPDW4OExJY9eGDx"
+PRINT 1,1
+
+SIZE 50 mm,30 mm
+DENSITY 15
+DIRECTION 1
+CLS
+TEXT 12,40,"TSS24.BF2",0,1,1," 线路宝"
+TEXT 0,80,"TSS24.BF2",0,1,1,"PCBBAO.COM"
+TEXT 280,40,"TSS24.BF2",0,1,1,"物联网平台"
+QRCODE 120,20,M,3,A,0,"https://pcbapi.pcbbao.com/mesdemo/index.php/v1/default/device-detail?product_key=bLl5jjIjQfI&device_name=VnKbV4DY9GbxPCgSB_C8"
+TEXT 20,180,"TSS24.BF2",0,1,1,"设备名称: 计数器50"
+TEXT 20,210,"TSS24.BF2",0,1,1,"设备编号: VnKbV4DY9GbxPCgSB_C8"
+PRINT 1,1
+
+SIZE 50 mm,30 mm
+DENSITY 15
+DIRECTION 1
+CLS
+TEXT 12,40,"TSS24.BF2",0,1,1," 线路宝"
+TEXT 0,80,"TSS24.BF2",0,1,1,"PCBBAO.COM"
+TEXT 280,40,"TSS24.BF2",0,1,1,"物联网平台"
+QRCODE 120,20,M,3,A,0,"https://pcbapi.pcbbao.com/mesdemo/index.php/v1/default/device-detail?product_key=bLl5jjIjQfI&device_name=2VE5gnLA0kc-jO0bX8DI"
+TEXT 20,180,"TSS24.BF2",0,1,1,"设备名称: 计数器51"
+TEXT 20,210,"TSS24.BF2",0,1,1,"设备编号: 2VE5gnLA0kc-jO0bX8DI"
+PRINT 1,1
+
+SIZE 50 mm,30 mm
+DENSITY 15
+DIRECTION 1
+CLS
+TEXT 12,40,"TSS24.BF2",0,1,1," 线路宝"
+TEXT 0,80,"TSS24.BF2",0,1,1,"PCBBAO.COM"
+TEXT 280,40,"TSS24.BF2",0,1,1,"物联网平台"
+QRCODE 120,20,M,3,A,0,"https://pcbapi.pcbbao.com/mesdemo/index.php/v1/default/device-detail?product_key=bLl5jjIjQfI&device_name=dDmoj07DsQYQ0l1ajy7v"
+TEXT 20,180,"TSS24.BF2",0,1,1,"设备名称: 计数器52"
+TEXT 20,210,"TSS24.BF2",0,1,1,"设备编号: dDmoj07DsQYQ0l1ajy7v"
+PRINT 1,1
+
+SIZE 50 mm,30 mm
+DENSITY 15
+DIRECTION 1
+CLS
+TEXT 12,40,"TSS24.BF2",0,1,1," 线路宝"
+TEXT 0,80,"TSS24.BF2",0,1,1,"PCBBAO.COM"
+TEXT 280,40,"TSS24.BF2",0,1,1,"物联网平台"
+QRCODE 120,20,M,3,A,0,"https://pcbapi.pcbbao.com/mesdemo/index.php/v1/default/device-detail?product_key=bLl5jjIjQfI&device_name=cm-wexHPE_116w4MfwDV"
+TEXT 20,180,"TSS24.BF2",0,1,1,"设备名称: 计数器53"
+TEXT 20,210,"TSS24.BF2",0,1,1,"设备编号: cm-wexHPE_116w4MfwDV"
+PRINT 1,1
+
+SIZE 50 mm,30 mm
+DENSITY 15
+DIRECTION 1
+CLS
+TEXT 12,40,"TSS24.BF2",0,1,1," 线路宝"
+TEXT 0,80,"TSS24.BF2",0,1,1,"PCBBAO.COM"
+TEXT 280,40,"TSS24.BF2",0,1,1,"物联网平台"
+QRCODE 120,20,M,3,A,0,"https://pcbapi.pcbbao.com/mesdemo/index.php/v1/default/device-detail?product_key=bLl5jjIjQfI&device_name=tnHNSNKoY7wJDSvk6KB_"
+TEXT 20,180,"TSS24.BF2",0,1,1,"设备名称: 计数器54"
+TEXT 20,210,"TSS24.BF2",0,1,1,"设备编号: tnHNSNKoY7wJDSvk6KB_"
+PRINT 1,1
+
+SIZE 50 mm,30 mm
+DENSITY 15
+DIRECTION 1
+CLS
+TEXT 12,40,"TSS24.BF2",0,1,1," 线路宝"
+TEXT 0,80,"TSS24.BF2",0,1,1,"PCBBAO.COM"
+TEXT 280,40,"TSS24.BF2",0,1,1,"物联网平台"
+QRCODE 120,20,M,3,A,0,"https://pcbapi.pcbbao.com/mesdemo/index.php/v1/default/device-detail?product_key=bLl5jjIjQfI&device_name=YXaHydSAyeB6RpSPdjBH"
+TEXT 20,180,"TSS24.BF2",0,1,1,"设备名称: 计数器55"
+TEXT 20,210,"TSS24.BF2",0,1,1,"设备编号: YXaHydSAyeB6RpSPdjBH"
+PRINT 1,1
+
+SIZE 50 mm,30 mm
+DENSITY 15
+DIRECTION 1
+CLS
+TEXT 12,40,"TSS24.BF2",0,1,1," 线路宝"
+TEXT 0,80,"TSS24.BF2",0,1,1,"PCBBAO.COM"
+TEXT 280,40,"TSS24.BF2",0,1,1,"物联网平台"
+QRCODE 120,20,M,3,A,0,"https://pcbapi.pcbbao.com/mesdemo/index.php/v1/default/device-detail?product_key=bLl5jjIjQfI&device_name=ypWoi7mTUxxqmL0MDKV-"
+TEXT 20,180,"TSS24.BF2",0,1,1,"设备名称: 计数器56"
+TEXT 20,210,"TSS24.BF2",0,1,1,"设备编号: ypWoi7mTUxxqmL0MDKV-"
+PRINT 1,1
+
+SIZE 50 mm,30 mm
+DENSITY 15
+DIRECTION 1
+CLS
+TEXT 12,40,"TSS24.BF2",0,1,1," 线路宝"
+TEXT 0,80,"TSS24.BF2",0,1,1,"PCBBAO.COM"
+TEXT 280,40,"TSS24.BF2",0,1,1,"物联网平台"
+QRCODE 120,20,M,3,A,0,"https://pcbapi.pcbbao.com/mesdemo/index.php/v1/default/device-detail?product_key=bLl5jjIjQfI&device_name=0Hm7SC36EnT7VTlpLzkN"
+TEXT 20,180,"TSS24.BF2",0,1,1,"设备名称: 计数器57"
+TEXT 20,210,"TSS24.BF2",0,1,1,"设备编号: 0Hm7SC36EnT7VTlpLzkN"
+PRINT 1,1
+
+SIZE 50 mm,30 mm
+DENSITY 15
+DIRECTION 1
+CLS
+TEXT 12,40,"TSS24.BF2",0,1,1," 线路宝"
+TEXT 0,80,"TSS24.BF2",0,1,1,"PCBBAO.COM"
+TEXT 280,40,"TSS24.BF2",0,1,1,"物联网平台"
+QRCODE 120,20,M,3,A,0,"https://pcbapi.pcbbao.com/mesdemo/index.php/v1/default/device-detail?product_key=bLl5jjIjQfI&device_name=TMT4CSLaPiNoDLRnDsu3"
+TEXT 20,180,"TSS24.BF2",0,1,1,"设备名称: 计数器58"
+TEXT 20,210,"TSS24.BF2",0,1,1,"设备编号: TMT4CSLaPiNoDLRnDsu3"
+PRINT 1,1
+
+SIZE 50 mm,30 mm
+DENSITY 15
+DIRECTION 1
+CLS
+TEXT 12,40,"TSS24.BF2",0,1,1," 线路宝"
+TEXT 0,80,"TSS24.BF2",0,1,1,"PCBBAO.COM"
+TEXT 280,40,"TSS24.BF2",0,1,1,"物联网平台"
+QRCODE 120,20,M,3,A,0,"https://pcbapi.pcbbao.com/mesdemo/index.php/v1/default/device-detail?product_key=bLl5jjIjQfI&device_name=0qoQeNLP1bJw6Y5GfJeT"
+TEXT 20,180,"TSS24.BF2",0,1,1,"设备名称: 计数器59"
+TEXT 20,210,"TSS24.BF2",0,1,1,"设备编号: 0qoQeNLP1bJw6Y5GfJeT"
+PRINT 1,1
+
+SIZE 50 mm,30 mm
+DENSITY 15
+DIRECTION 1
+CLS
+TEXT 12,40,"TSS24.BF2",0,1,1," 线路宝"
+TEXT 0,80,"TSS24.BF2",0,1,1,"PCBBAO.COM"
+TEXT 280,40,"TSS24.BF2",0,1,1,"物联网平台"
+QRCODE 120,20,M,3,A,0,"https://pcbapi.pcbbao.com/mesdemo/index.php/v1/default/device-detail?product_key=bLl5jjIjQfI&device_name=b4nnIxLnYT8Yh11ThiOR"
+TEXT 20,180,"TSS24.BF2",0,1,1,"设备名称: 计数器60"
+TEXT 20,210,"TSS24.BF2",0,1,1,"设备编号: b4nnIxLnYT8Yh11ThiOR"
+PRINT 1,1
+
+SIZE 50 mm,30 mm
+DENSITY 15
+DIRECTION 1
+CLS
+TEXT 12,40,"TSS24.BF2",0,1,1," 线路宝"
+TEXT 0,80,"TSS24.BF2",0,1,1,"PCBBAO.COM"
+TEXT 280,40,"TSS24.BF2",0,1,1,"物联网平台"
+QRCODE 120,20,M,3,A,0,"https://pcbapi.pcbbao.com/mesdemo/index.php/v1/default/device-detail?product_key=bLl5jjIjQfI&device_name=wVhS-45ZawXgPERoeHqp"
+TEXT 20,180,"TSS24.BF2",0,1,1,"设备名称: 计数器61"
+TEXT 20,210,"TSS24.BF2",0,1,1,"设备编号: wVhS-45ZawXgPERoeHqp"
+PRINT 1,1
+
+SIZE 50 mm,30 mm
+DENSITY 15
+DIRECTION 1
+CLS
+TEXT 12,40,"TSS24.BF2",0,1,1," 线路宝"
+TEXT 0,80,"TSS24.BF2",0,1,1,"PCBBAO.COM"
+TEXT 280,40,"TSS24.BF2",0,1,1,"物联网平台"
+QRCODE 120,20,M,3,A,0,"https://pcbapi.pcbbao.com/mesdemo/index.php/v1/default/device-detail?product_key=bLl5jjIjQfI&device_name=atln3fe2W-CARM8yMpkP"
+TEXT 20,180,"TSS24.BF2",0,1,1,"设备名称: 计数器62"
+TEXT 20,210,"TSS24.BF2",0,1,1,"设备编号: atln3fe2W-CARM8yMpkP"
+PRINT 1,1
+
+SIZE 50 mm,30 mm
+DENSITY 15
+DIRECTION 1
+CLS
+TEXT 12,40,"TSS24.BF2",0,1,1," 线路宝"
+TEXT 0,80,"TSS24.BF2",0,1,1,"PCBBAO.COM"
+TEXT 280,40,"TSS24.BF2",0,1,1,"物联网平台"
+QRCODE 120,20,M,3,A,0,"https://pcbapi.pcbbao.com/mesdemo/index.php/v1/default/device-detail?product_key=bLl5jjIjQfI&device_name=4i7jkVBlKu5GOg7VP1uN"
+TEXT 20,180,"TSS24.BF2",0,1,1,"设备名称: 计数器63"
+TEXT 20,210,"TSS24.BF2",0,1,1,"设备编号: 4i7jkVBlKu5GOg7VP1uN"
+PRINT 1,1
+
+SIZE 50 mm,30 mm
+DENSITY 15
+DIRECTION 1
+CLS
+TEXT 12,40,"TSS24.BF2",0,1,1," 线路宝"
+TEXT 0,80,"TSS24.BF2",0,1,1,"PCBBAO.COM"
+TEXT 280,40,"TSS24.BF2",0,1,1,"物联网平台"
+QRCODE 120,20,M,3,A,0,"https://pcbapi.pcbbao.com/mesdemo/index.php/v1/default/device-detail?product_key=bLl5jjIjQfI&device_name=RVPktX4EHJZTQVb753DQ"
+TEXT 20,180,"TSS24.BF2",0,1,1,"设备名称: 计数器64"
+TEXT 20,210,"TSS24.BF2",0,1,1,"设备编号: RVPktX4EHJZTQVb753DQ"
+PRINT 1,1
+
+SIZE 50 mm,30 mm
+DENSITY 15
+DIRECTION 1
+CLS
+TEXT 12,40,"TSS24.BF2",0,1,1," 线路宝"
+TEXT 0,80,"TSS24.BF2",0,1,1,"PCBBAO.COM"
+TEXT 280,40,"TSS24.BF2",0,1,1,"物联网平台"
+QRCODE 120,20,M,3,A,0,"https://pcbapi.pcbbao.com/mesdemo/index.php/v1/default/device-detail?product_key=bLl5jjIjQfI&device_name=PnKWoBJnODB9DbvDauu-"
+TEXT 20,180,"TSS24.BF2",0,1,1,"设备名称: 计数器65"
+TEXT 20,210,"TSS24.BF2",0,1,1,"设备编号: PnKWoBJnODB9DbvDauu-"
+PRINT 1,1
+
+SIZE 50 mm,30 mm
+DENSITY 15
+DIRECTION 1
+CLS
+TEXT 12,40,"TSS24.BF2",0,1,1," 线路宝"
+TEXT 0,80,"TSS24.BF2",0,1,1,"PCBBAO.COM"
+TEXT 280,40,"TSS24.BF2",0,1,1,"物联网平台"
+QRCODE 120,20,M,3,A,0,"https://pcbapi.pcbbao.com/mesdemo/index.php/v1/default/device-detail?product_key=bLl5jjIjQfI&device_name=Siki0nno5IWZ-jpb0vA_"
+TEXT 20,180,"TSS24.BF2",0,1,1,"设备名称: 计数器66"
+TEXT 20,210,"TSS24.BF2",0,1,1,"设备编号: Siki0nno5IWZ-jpb0vA_"
+PRINT 1,1
+
+SIZE 50 mm,30 mm
+DENSITY 15
+DIRECTION 1
+CLS
+TEXT 12,40,"TSS24.BF2",0,1,1," 线路宝"
+TEXT 0,80,"TSS24.BF2",0,1,1,"PCBBAO.COM"
+TEXT 280,40,"TSS24.BF2",0,1,1,"物联网平台"
+QRCODE 120,20,M,3,A,0,"https://pcbapi.pcbbao.com/mesdemo/index.php/v1/default/device-detail?product_key=bLl5jjIjQfI&device_name=weCPJAWEqmTO3O7Grzl5"
+TEXT 20,180,"TSS24.BF2",0,1,1,"设备名称: 计数器67"
+TEXT 20,210,"TSS24.BF2",0,1,1,"设备编号: weCPJAWEqmTO3O7Grzl5"
+PRINT 1,1
+
+SIZE 50 mm,30 mm
+DENSITY 15
+DIRECTION 1
+CLS
+TEXT 12,40,"TSS24.BF2",0,1,1," 线路宝"
+TEXT 0,80,"TSS24.BF2",0,1,1,"PCBBAO.COM"
+TEXT 280,40,"TSS24.BF2",0,1,1,"物联网平台"
+QRCODE 120,20,M,3,A,0,"https://pcbapi.pcbbao.com/mesdemo/index.php/v1/default/device-detail?product_key=bLl5jjIjQfI&device_name=BdksybWL6bv8eK5lebhn"
+TEXT 20,180,"TSS24.BF2",0,1,1,"设备名称: 计数器68"
+TEXT 20,210,"TSS24.BF2",0,1,1,"设备编号: BdksybWL6bv8eK5lebhn"
+PRINT 1,1
+
+SIZE 50 mm,30 mm
+DENSITY 15
+DIRECTION 1
+CLS
+TEXT 12,40,"TSS24.BF2",0,1,1," 线路宝"
+TEXT 0,80,"TSS24.BF2",0,1,1,"PCBBAO.COM"
+TEXT 280,40,"TSS24.BF2",0,1,1,"物联网平台"
+QRCODE 120,20,M,3,A,0,"https://pcbapi.pcbbao.com/mesdemo/index.php/v1/default/device-detail?product_key=bLl5jjIjQfI&device_name=k6LttbV3jx5zMTtcWpu4"
+TEXT 20,180,"TSS24.BF2",0,1,1,"设备名称: 计数器69"
+TEXT 20,210,"TSS24.BF2",0,1,1,"设备编号: k6LttbV3jx5zMTtcWpu4"
+PRINT 1,1
+
+SIZE 50 mm,30 mm
+DENSITY 15
+DIRECTION 1
+CLS
+TEXT 12,40,"TSS24.BF2",0,1,1," 线路宝"
+TEXT 0,80,"TSS24.BF2",0,1,1,"PCBBAO.COM"
+TEXT 280,40,"TSS24.BF2",0,1,1,"物联网平台"
+QRCODE 120,20,M,3,A,0,"https://pcbapi.pcbbao.com/mesdemo/index.php/v1/default/device-detail?product_key=bLl5jjIjQfI&device_name=4Idv06FSQ0QjGMBGFG_0"
+TEXT 20,180,"TSS24.BF2",0,1,1,"设备名称: 计数器70"
+TEXT 20,210,"TSS24.BF2",0,1,1,"设备编号: 4Idv06FSQ0QjGMBGFG_0"
+PRINT 1,1
+
+SIZE 50 mm,30 mm
+DENSITY 15
+DIRECTION 1
+CLS
+TEXT 12,40,"TSS24.BF2",0,1,1," 线路宝"
+TEXT 0,80,"TSS24.BF2",0,1,1,"PCBBAO.COM"
+TEXT 280,40,"TSS24.BF2",0,1,1,"物联网平台"
+QRCODE 120,20,M,3,A,0,"https://pcbapi.pcbbao.com/mesdemo/index.php/v1/default/device-detail?product_key=bLl5jjIjQfI&device_name=ApudV3s80RVJLZbtRnPO"
+TEXT 20,180,"TSS24.BF2",0,1,1,"设备名称: 计数器71"
+TEXT 20,210,"TSS24.BF2",0,1,1,"设备编号: ApudV3s80RVJLZbtRnPO"
+PRINT 1,1
+
+SIZE 50 mm,30 mm
+DENSITY 15
+DIRECTION 1
+CLS
+TEXT 12,40,"TSS24.BF2",0,1,1," 线路宝"
+TEXT 0,80,"TSS24.BF2",0,1,1,"PCBBAO.COM"
+TEXT 280,40,"TSS24.BF2",0,1,1,"物联网平台"
+QRCODE 120,20,M,3,A,0,"https://pcbapi.pcbbao.com/mesdemo/index.php/v1/default/device-detail?product_key=bLl5jjIjQfI&device_name=Z3d-EBV9BX-aSMLf2n2e"
+TEXT 20,180,"TSS24.BF2",0,1,1,"设备名称: 计数器72"
+TEXT 20,210,"TSS24.BF2",0,1,1,"设备编号: Z3d-EBV9BX-aSMLf2n2e"
+PRINT 1,1
+
+SIZE 50 mm,30 mm
+DENSITY 15
+DIRECTION 1
+CLS
+TEXT 12,40,"TSS24.BF2",0,1,1," 线路宝"
+TEXT 0,80,"TSS24.BF2",0,1,1,"PCBBAO.COM"
+TEXT 280,40,"TSS24.BF2",0,1,1,"物联网平台"
+QRCODE 120,20,M,3,A,0,"https://pcbapi.pcbbao.com/mesdemo/index.php/v1/default/device-detail?product_key=bLl5jjIjQfI&device_name=_yHnvWHn8g3Ve-cW7hgE"
+TEXT 20,180,"TSS24.BF2",0,1,1,"设备名称: 计数器73"
+TEXT 20,210,"TSS24.BF2",0,1,1,"设备编号: _yHnvWHn8g3Ve-cW7hgE"
+PRINT 1,1
+
+SIZE 50 mm,30 mm
+DENSITY 15
+DIRECTION 1
+CLS
+TEXT 12,40,"TSS24.BF2",0,1,1," 线路宝"
+TEXT 0,80,"TSS24.BF2",0,1,1,"PCBBAO.COM"
+TEXT 280,40,"TSS24.BF2",0,1,1,"物联网平台"
+QRCODE 120,20,M,3,A,0,"https://pcbapi.pcbbao.com/mesdemo/index.php/v1/default/device-detail?product_key=bLl5jjIjQfI&device_name=ux5zCo7rhXGTOdlwiGqL"
+TEXT 20,180,"TSS24.BF2",0,1,1,"设备名称: 计数器74"
+TEXT 20,210,"TSS24.BF2",0,1,1,"设备编号: ux5zCo7rhXGTOdlwiGqL"
+PRINT 1,1
+
+SIZE 50 mm,30 mm
+DENSITY 15
+DIRECTION 1
+CLS
+TEXT 12,40,"TSS24.BF2",0,1,1," 线路宝"
+TEXT 0,80,"TSS24.BF2",0,1,1,"PCBBAO.COM"
+TEXT 280,40,"TSS24.BF2",0,1,1,"物联网平台"
+QRCODE 120,20,M,3,A,0,"https://pcbapi.pcbbao.com/mesdemo/index.php/v1/default/device-detail?product_key=bLl5jjIjQfI&device_name=XI6nFiaT4BFOKFErZzCU"
+TEXT 20,180,"TSS24.BF2",0,1,1,"设备名称: 计数器75"
+TEXT 20,210,"TSS24.BF2",0,1,1,"设备编号: XI6nFiaT4BFOKFErZzCU"
+PRINT 1,1
+
+SIZE 50 mm,30 mm
+DENSITY 15
+DIRECTION 1
+CLS
+TEXT 12,40,"TSS24.BF2",0,1,1," 线路宝"
+TEXT 0,80,"TSS24.BF2",0,1,1,"PCBBAO.COM"
+TEXT 280,40,"TSS24.BF2",0,1,1,"物联网平台"
+QRCODE 120,20,M,3,A,0,"https://pcbapi.pcbbao.com/mesdemo/index.php/v1/default/device-detail?product_key=bLl5jjIjQfI&device_name=lGXlYNgtQN_lX2SghU3I"
+TEXT 20,180,"TSS24.BF2",0,1,1,"设备名称: 计数器76"
+TEXT 20,210,"TSS24.BF2",0,1,1,"设备编号: lGXlYNgtQN_lX2SghU3I"
+PRINT 1,1
+
+SIZE 50 mm,30 mm
+DENSITY 15
+DIRECTION 1
+CLS
+TEXT 12,40,"TSS24.BF2",0,1,1," 线路宝"
+TEXT 0,80,"TSS24.BF2",0,1,1,"PCBBAO.COM"
+TEXT 280,40,"TSS24.BF2",0,1,1,"物联网平台"
+QRCODE 120,20,M,3,A,0,"https://pcbapi.pcbbao.com/mesdemo/index.php/v1/default/device-detail?product_key=bLl5jjIjQfI&device_name=pob6iuxmtSDQIjk3fE2y"
+TEXT 20,180,"TSS24.BF2",0,1,1,"设备名称: 计数器77"
+TEXT 20,210,"TSS24.BF2",0,1,1,"设备编号: pob6iuxmtSDQIjk3fE2y"
+PRINT 1,1
+
+SIZE 50 mm,30 mm
+DENSITY 15
+DIRECTION 1
+CLS
+TEXT 12,40,"TSS24.BF2",0,1,1," 线路宝"
+TEXT 0,80,"TSS24.BF2",0,1,1,"PCBBAO.COM"
+TEXT 280,40,"TSS24.BF2",0,1,1,"物联网平台"
+QRCODE 120,20,M,3,A,0,"https://pcbapi.pcbbao.com/mesdemo/index.php/v1/default/device-detail?product_key=bLl5jjIjQfI&device_name=VC6y5yOMe38HhNTLb7-h"
+TEXT 20,180,"TSS24.BF2",0,1,1,"设备名称: 计数器78"
+TEXT 20,210,"TSS24.BF2",0,1,1,"设备编号: VC6y5yOMe38HhNTLb7-h"
+PRINT 1,1
+
+SIZE 50 mm,30 mm
+DENSITY 15
+DIRECTION 1
+CLS
+TEXT 12,40,"TSS24.BF2",0,1,1," 线路宝"
+TEXT 0,80,"TSS24.BF2",0,1,1,"PCBBAO.COM"
+TEXT 280,40,"TSS24.BF2",0,1,1,"物联网平台"
+QRCODE 120,20,M,3,A,0,"https://pcbapi.pcbbao.com/mesdemo/index.php/v1/default/device-detail?product_key=bLl5jjIjQfI&device_name=bSi2QbWjL1By3hO7n0Lv"
+TEXT 20,180,"TSS24.BF2",0,1,1,"设备名称: 计数器79"
+TEXT 20,210,"TSS24.BF2",0,1,1,"设备编号: bSi2QbWjL1By3hO7n0Lv"
+PRINT 1,1
+
+SIZE 50 mm,30 mm
+DENSITY 15
+DIRECTION 1
+CLS
+TEXT 12,40,"TSS24.BF2",0,1,1," 线路宝"
+TEXT 0,80,"TSS24.BF2",0,1,1,"PCBBAO.COM"
+TEXT 280,40,"TSS24.BF2",0,1,1,"物联网平台"
+QRCODE 120,20,M,3,A,0,"https://pcbapi.pcbbao.com/mesdemo/index.php/v1/default/device-detail?product_key=bLl5jjIjQfI&device_name=6auQpZ92fRWVUkVb5zVI"
+TEXT 20,180,"TSS24.BF2",0,1,1,"设备名称: 计数器80"
+TEXT 20,210,"TSS24.BF2",0,1,1,"设备编号: 6auQpZ92fRWVUkVb5zVI"
+PRINT 1,1
+
+SIZE 50 mm,30 mm
+DENSITY 15
+DIRECTION 1
+CLS
+TEXT 12,40,"TSS24.BF2",0,1,1," 线路宝"
+TEXT 0,80,"TSS24.BF2",0,1,1,"PCBBAO.COM"
+TEXT 280,40,"TSS24.BF2",0,1,1,"物联网平台"
+QRCODE 120,20,M,3,A,0,"https://pcbapi.pcbbao.com/mesdemo/index.php/v1/default/device-detail?product_key=bLl5jjIjQfI&device_name=eC3A1t_v3oLc1a4bRwy8"
+TEXT 20,180,"TSS24.BF2",0,1,1,"设备名称: 计数器81"
+TEXT 20,210,"TSS24.BF2",0,1,1,"设备编号: eC3A1t_v3oLc1a4bRwy8"
+PRINT 1,1
+
+SIZE 50 mm,30 mm
+DENSITY 15
+DIRECTION 1
+CLS
+TEXT 12,40,"TSS24.BF2",0,1,1," 线路宝"
+TEXT 0,80,"TSS24.BF2",0,1,1,"PCBBAO.COM"
+TEXT 280,40,"TSS24.BF2",0,1,1,"物联网平台"
+QRCODE 120,20,M,3,A,0,"https://pcbapi.pcbbao.com/mesdemo/index.php/v1/default/device-detail?product_key=bLl5jjIjQfI&device_name=ADNYLG9RmwtD-A985XFl"
+TEXT 20,180,"TSS24.BF2",0,1,1,"设备名称: 计数器82"
+TEXT 20,210,"TSS24.BF2",0,1,1,"设备编号: ADNYLG9RmwtD-A985XFl"
+PRINT 1,1
+
+SIZE 50 mm,30 mm
+DENSITY 15
+DIRECTION 1
+CLS
+TEXT 12,40,"TSS24.BF2",0,1,1," 线路宝"
+TEXT 0,80,"TSS24.BF2",0,1,1,"PCBBAO.COM"
+TEXT 280,40,"TSS24.BF2",0,1,1,"物联网平台"
+QRCODE 120,20,M,3,A,0,"https://pcbapi.pcbbao.com/mesdemo/index.php/v1/default/device-detail?product_key=bLl5jjIjQfI&device_name=qmiG-XeZBaCJIG4qwOoR"
+TEXT 20,180,"TSS24.BF2",0,1,1,"设备名称: 计数器83"
+TEXT 20,210,"TSS24.BF2",0,1,1,"设备编号: qmiG-XeZBaCJIG4qwOoR"
+PRINT 1,1
+
+SIZE 50 mm,30 mm
+DENSITY 15
+DIRECTION 1
+CLS
+TEXT 12,40,"TSS24.BF2",0,1,1," 线路宝"
+TEXT 0,80,"TSS24.BF2",0,1,1,"PCBBAO.COM"
+TEXT 280,40,"TSS24.BF2",0,1,1,"物联网平台"
+QRCODE 120,20,M,3,A,0,"https://pcbapi.pcbbao.com/mesdemo/index.php/v1/default/device-detail?product_key=bLl5jjIjQfI&device_name=zPZq4cY_JPN639te45o8"
+TEXT 20,180,"TSS24.BF2",0,1,1,"设备名称: 计数器84"
+TEXT 20,210,"TSS24.BF2",0,1,1,"设备编号: zPZq4cY_JPN639te45o8"
+PRINT 1,1
+
+SIZE 50 mm,30 mm
+DENSITY 15
+DIRECTION 1
+CLS
+TEXT 12,40,"TSS24.BF2",0,1,1," 线路宝"
+TEXT 0,80,"TSS24.BF2",0,1,1,"PCBBAO.COM"
+TEXT 280,40,"TSS24.BF2",0,1,1,"物联网平台"
+QRCODE 120,20,M,3,A,0,"https://pcbapi.pcbbao.com/mesdemo/index.php/v1/default/device-detail?product_key=bLl5jjIjQfI&device_name=nBnuQClZ66t9SrAiVHId"
+TEXT 20,180,"TSS24.BF2",0,1,1,"设备名称: 计数器85"
+TEXT 20,210,"TSS24.BF2",0,1,1,"设备编号: nBnuQClZ66t9SrAiVHId"
+PRINT 1,1
+
+SIZE 50 mm,30 mm
+DENSITY 15
+DIRECTION 1
+CLS
+TEXT 12,40,"TSS24.BF2",0,1,1," 线路宝"
+TEXT 0,80,"TSS24.BF2",0,1,1,"PCBBAO.COM"
+TEXT 280,40,"TSS24.BF2",0,1,1,"物联网平台"
+QRCODE 120,20,M,3,A,0,"https://pcbapi.pcbbao.com/mesdemo/index.php/v1/default/device-detail?product_key=bLl5jjIjQfI&device_name=H0GfaLg712pLWDk1NriP"
+TEXT 20,180,"TSS24.BF2",0,1,1,"设备名称: 计数器86"
+TEXT 20,210,"TSS24.BF2",0,1,1,"设备编号: H0GfaLg712pLWDk1NriP"
+PRINT 1,1
+
+SIZE 50 mm,30 mm
+DENSITY 15
+DIRECTION 1
+CLS
+TEXT 12,40,"TSS24.BF2",0,1,1," 线路宝"
+TEXT 0,80,"TSS24.BF2",0,1,1,"PCBBAO.COM"
+TEXT 280,40,"TSS24.BF2",0,1,1,"物联网平台"
+QRCODE 120,20,M,3,A,0,"https://pcbapi.pcbbao.com/mesdemo/index.php/v1/default/device-detail?product_key=bLl5jjIjQfI&device_name=VuZ8mblVGSCq1eQ1B9PT"
+TEXT 20,180,"TSS24.BF2",0,1,1,"设备名称: 计数器87"
+TEXT 20,210,"TSS24.BF2",0,1,1,"设备编号: VuZ8mblVGSCq1eQ1B9PT"
+PRINT 1,1
+
+SIZE 50 mm,30 mm
+DENSITY 15
+DIRECTION 1
+CLS
+TEXT 12,40,"TSS24.BF2",0,1,1," 线路宝"
+TEXT 0,80,"TSS24.BF2",0,1,1,"PCBBAO.COM"
+TEXT 280,40,"TSS24.BF2",0,1,1,"物联网平台"
+QRCODE 120,20,M,3,A,0,"https://pcbapi.pcbbao.com/mesdemo/index.php/v1/default/device-detail?product_key=bLl5jjIjQfI&device_name=owL6zIm7R5K0irlzopt1"
+TEXT 20,180,"TSS24.BF2",0,1,1,"设备名称: 计数器88"
+TEXT 20,210,"TSS24.BF2",0,1,1,"设备编号: owL6zIm7R5K0irlzopt1"
+PRINT 1,1
+
+SIZE 50 mm,30 mm
+DENSITY 15
+DIRECTION 1
+CLS
+TEXT 12,40,"TSS24.BF2",0,1,1," 线路宝"
+TEXT 0,80,"TSS24.BF2",0,1,1,"PCBBAO.COM"
+TEXT 280,40,"TSS24.BF2",0,1,1,"物联网平台"
+QRCODE 120,20,M,3,A,0,"https://pcbapi.pcbbao.com/mesdemo/index.php/v1/default/device-detail?product_key=bLl5jjIjQfI&device_name=eNgRVLDHZvYZlVc-qURS"
+TEXT 20,180,"TSS24.BF2",0,1,1,"设备名称: 计数器89"
+TEXT 20,210,"TSS24.BF2",0,1,1,"设备编号: eNgRVLDHZvYZlVc-qURS"
+PRINT 1,1
+
+SIZE 50 mm,30 mm
+DENSITY 15
+DIRECTION 1
+CLS
+TEXT 12,40,"TSS24.BF2",0,1,1," 线路宝"
+TEXT 0,80,"TSS24.BF2",0,1,1,"PCBBAO.COM"
+TEXT 280,40,"TSS24.BF2",0,1,1,"物联网平台"
+QRCODE 120,20,M,3,A,0,"https://pcbapi.pcbbao.com/mesdemo/index.php/v1/default/device-detail?product_key=bLl5jjIjQfI&device_name=sh_qUw1_iMyGRV0bmay3"
+TEXT 20,180,"TSS24.BF2",0,1,1,"设备名称: 计数器90"
+TEXT 20,210,"TSS24.BF2",0,1,1,"设备编号: sh_qUw1_iMyGRV0bmay3"
+PRINT 1,1
+
+SIZE 50 mm,30 mm
+DENSITY 15
+DIRECTION 1
+CLS
+TEXT 12,40,"TSS24.BF2",0,1,1," 线路宝"
+TEXT 0,80,"TSS24.BF2",0,1,1,"PCBBAO.COM"
+TEXT 280,40,"TSS24.BF2",0,1,1,"物联网平台"
+QRCODE 120,20,M,3,A,0,"https://pcbapi.pcbbao.com/mesdemo/index.php/v1/default/device-detail?product_key=bLl5jjIjQfI&device_name=UTS3nGKgkYSPKSxhKF2Z"
+TEXT 20,180,"TSS24.BF2",0,1,1,"设备名称: 计数器91"
+TEXT 20,210,"TSS24.BF2",0,1,1,"设备编号: UTS3nGKgkYSPKSxhKF2Z"
+PRINT 1,1
+
+SIZE 50 mm,30 mm
+DENSITY 15
+DIRECTION 1
+CLS
+TEXT 12,40,"TSS24.BF2",0,1,1," 线路宝"
+TEXT 0,80,"TSS24.BF2",0,1,1,"PCBBAO.COM"
+TEXT 280,40,"TSS24.BF2",0,1,1,"物联网平台"
+QRCODE 120,20,M,3,A,0,"https://pcbapi.pcbbao.com/mesdemo/index.php/v1/default/device-detail?product_key=bLl5jjIjQfI&device_name=Q7btVILSvVO-IZpfiUeA"
+TEXT 20,180,"TSS24.BF2",0,1,1,"设备名称: 计数器92"
+TEXT 20,210,"TSS24.BF2",0,1,1,"设备编号: Q7btVILSvVO-IZpfiUeA"
+PRINT 1,1
+
+SIZE 50 mm,30 mm
+DENSITY 15
+DIRECTION 1
+CLS
+TEXT 12,40,"TSS24.BF2",0,1,1," 线路宝"
+TEXT 0,80,"TSS24.BF2",0,1,1,"PCBBAO.COM"
+TEXT 280,40,"TSS24.BF2",0,1,1,"物联网平台"
+QRCODE 120,20,M,3,A,0,"https://pcbapi.pcbbao.com/mesdemo/index.php/v1/default/device-detail?product_key=bLl5jjIjQfI&device_name=qNpPf5SBiH0cDecgjcrU"
+TEXT 20,180,"TSS24.BF2",0,1,1,"设备名称: 计数器93"
+TEXT 20,210,"TSS24.BF2",0,1,1,"设备编号: qNpPf5SBiH0cDecgjcrU"
+PRINT 1,1
+
+SIZE 50 mm,30 mm
+DENSITY 15
+DIRECTION 1
+CLS
+TEXT 12,40,"TSS24.BF2",0,1,1," 线路宝"
+TEXT 0,80,"TSS24.BF2",0,1,1,"PCBBAO.COM"
+TEXT 280,40,"TSS24.BF2",0,1,1,"物联网平台"
+QRCODE 120,20,M,3,A,0,"https://pcbapi.pcbbao.com/mesdemo/index.php/v1/default/device-detail?product_key=bLl5jjIjQfI&device_name=58WWtYLeFs9Rt4h40Rg8"
+TEXT 20,180,"TSS24.BF2",0,1,1,"设备名称: 计数器94"
+TEXT 20,210,"TSS24.BF2",0,1,1,"设备编号: 58WWtYLeFs9Rt4h40Rg8"
+PRINT 1,1
+
+SIZE 50 mm,30 mm
+DENSITY 15
+DIRECTION 1
+CLS
+TEXT 12,40,"TSS24.BF2",0,1,1," 线路宝"
+TEXT 0,80,"TSS24.BF2",0,1,1,"PCBBAO.COM"
+TEXT 280,40,"TSS24.BF2",0,1,1,"物联网平台"
+QRCODE 120,20,M,3,A,0,"https://pcbapi.pcbbao.com/mesdemo/index.php/v1/default/device-detail?product_key=bLl5jjIjQfI&device_name=SBXkZp6iLCywYb21YLX7"
+TEXT 20,180,"TSS24.BF2",0,1,1,"设备名称: 计数器95"
+TEXT 20,210,"TSS24.BF2",0,1,1,"设备编号: SBXkZp6iLCywYb21YLX7"
+PRINT 1,1
+
+SIZE 50 mm,30 mm
+DENSITY 15
+DIRECTION 1
+CLS
+TEXT 12,40,"TSS24.BF2",0,1,1," 线路宝"
+TEXT 0,80,"TSS24.BF2",0,1,1,"PCBBAO.COM"
+TEXT 280,40,"TSS24.BF2",0,1,1,"物联网平台"
+QRCODE 120,20,M,3,A,0,"https://pcbapi.pcbbao.com/mesdemo/index.php/v1/default/device-detail?product_key=bLl5jjIjQfI&device_name=XrT16vPlBL_9ahnf8EvN"
+TEXT 20,180,"TSS24.BF2",0,1,1,"设备名称: 计数器96"
+TEXT 20,210,"TSS24.BF2",0,1,1,"设备编号: XrT16vPlBL_9ahnf8EvN"
+PRINT 1,1
+
+SIZE 50 mm,30 mm
+DENSITY 15
+DIRECTION 1
+CLS
+TEXT 12,40,"TSS24.BF2",0,1,1," 线路宝"
+TEXT 0,80,"TSS24.BF2",0,1,1,"PCBBAO.COM"
+TEXT 280,40,"TSS24.BF2",0,1,1,"物联网平台"
+QRCODE 120,20,M,3,A,0,"https://pcbapi.pcbbao.com/mesdemo/index.php/v1/default/device-detail?product_key=bLl5jjIjQfI&device_name=B8UY_OFyE4mbpf_gQQHZ"
+TEXT 20,180,"TSS24.BF2",0,1,1,"设备名称: 计数器97"
+TEXT 20,210,"TSS24.BF2",0,1,1,"设备编号: B8UY_OFyE4mbpf_gQQHZ"
+PRINT 1,1
+
+SIZE 50 mm,30 mm
+DENSITY 15
+DIRECTION 1
+CLS
+TEXT 12,40,"TSS24.BF2",0,1,1," 线路宝"
+TEXT 0,80,"TSS24.BF2",0,1,1,"PCBBAO.COM"
+TEXT 280,40,"TSS24.BF2",0,1,1,"物联网平台"
+QRCODE 120,20,M,3,A,0,"https://pcbapi.pcbbao.com/mesdemo/index.php/v1/default/device-detail?product_key=bLl5jjIjQfI&device_name=USxE9fXpjqFsYTrn96tf"
+TEXT 20,180,"TSS24.BF2",0,1,1,"设备名称: 计数器98"
+TEXT 20,210,"TSS24.BF2",0,1,1,"设备编号: USxE9fXpjqFsYTrn96tf"
+PRINT 1,1
+
+SIZE 50 mm,30 mm
+DENSITY 15
+DIRECTION 1
+CLS
+TEXT 12,40,"TSS24.BF2",0,1,1," 线路宝"
+TEXT 0,80,"TSS24.BF2",0,1,1,"PCBBAO.COM"
+TEXT 280,40,"TSS24.BF2",0,1,1,"物联网平台"
+QRCODE 120,20,M,3,A,0,"https://pcbapi.pcbbao.com/mesdemo/index.php/v1/default/device-detail?product_key=bLl5jjIjQfI&device_name=NnDfOdigX8-9WawPtBy0"
+TEXT 20,180,"TSS24.BF2",0,1,1,"设备名称: 计数器99"
+TEXT 20,210,"TSS24.BF2",0,1,1,"设备编号: NnDfOdigX8-9WawPtBy0"
+PRINT 1,1
+
